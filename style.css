@@ -1,0 +1,45 @@
+*{
+   
+}
+body {
+    background-color:  hsl(212, 45%, 89%);
+    margin: 0;
+}
+
+#conteudo {
+    background-color: hsl(0, 0%, 100%);
+    margin: 200px auto;
+    max-width: 350px;
+    border-radius: 5%;
+}
+
+#imagem {
+    margin: auto;
+    max-width: 330px;
+    border-radius: 5%;
+    padding: 20px;
+}
+#qrcode {
+    max-width: 300px;
+    border-radius: 5%;
+}
+
+#titulo {
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    margin: 20px;
+    color: hsl(218, 44%, 22%);
+}
+#texto {
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    color:  hsl(220, 15%, 55%);
+    font-size: 15px;
+    padding: 20px;
+}
+
+#attribution {
+    text-align: center;
+}
